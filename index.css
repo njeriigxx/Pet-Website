@@ -1,6 +1,6 @@
 /* .intro{ */
      /* display: flex; */
-    }
+    
     .dogs{
         color: red;
     }
@@ -17,9 +17,9 @@
     body{
         height: 700px;
     }
-    .dog1{
+    /* .dog1{
         height: ;
-    }
+    } */
     .dog2{
         height: 600px;
         margin: 50px;
@@ -47,4 +47,3 @@
     .conclusion{
         display: end;
     }
-    
