@@ -1,50 +1,51 @@
-/* .intro{ */
-     /* display: flex; */
-    }
-    .dogs{
-        color: red;
-    }
-    .nav{
-        color: #FFFB00;
-        margin: 50px;
-        /* display: flex; */
-        float: right;
-        display: inline;
-    }
-    .two{
-        float: right;
-    }
-    body{
-        height: 700px;
-    }
-    .dog1{
-        height: ;
-    }
-    .dog2{
-        height: 600px;
-        margin: 50px;
-        /* width: 50px; */
-    }
-    .breed{
-        display: flex;
-        height: 100px;
-        transition: 0.3s;
-    height: 500px;
+.dogs{
+    color: red;
+}
+.nav{
+    color: #FFFB00;
     margin: 50px;
-    border-radius: 25px;
-    background-color:black;
-    }
-    .table-styling {
-        background-color: black;
-        box-shadow: 0 5px 9px 0  #0000;
-        border-radius: 10px;
-        /* width: 100px; */
-        display: flex;
-    }
-    .table-row {
-        color: yellow;
-    }
-    .conclusion{
-        display: end;
-    }
-    
+    /* display: flex; */
+    float: right;
+    display: inline;
+}
+.two{
+    float: right;
+}
+body{
+    height: 700px;
+}
+.dog2{
+    height: 600px;
+    margin: 50px;
+    /* width: 50px; */
+}
+.breed{
+    display: flex;
+    height: 100px;
+    transition: 0.3s;
+height: 500px;
+margin: 50px;
+border-radius: 25px;
+background-color:black;
+}
+.table-styling {
+    display: inline;
+    float: left;
+    background-color: black;
+    /* box-shadow: 0 5px 9px 0  #0000; */
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+.table-styling img{
+    width: 100%;
+}
+.table-row {
+    color: yellow;
+    position: relative;
+}
+/* .conclusion{ */
+    /* display: end; */
+/* } */
